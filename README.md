@@ -1,8 +1,8 @@
 # Google Location History Takeout Parser
 
-Announcing Version 1.3.0.0, with improved KML output functionality and support!
+Announcing Version 1.3.0.1, with improved KML output functionality and support!
 
-![Image](https://github.com/user-attachments/assets/eeb39577-f4df-4498-a097-c343c8fd456e)
+![1 3 0 1](https://github.com/user-attachments/assets/520ad921-01a8-4afd-bc73-b291c9e34ad3)
 
 Parsing Google Takeout Location History Timeline Exports or Google Semantic Location History Warrant Return Data in a forensic manner.
 
@@ -35,5 +35,7 @@ Run the application, browse to either your input .zip file or your folder contai
 This software includes the CustomTkinter library, which is licensed under the MIT License. Copyright (c) 2023 Tom Schimansky. The full license text can be found in the LICENSE file provided here: https://github.com/TomSchimansky/CustomTkinter.
 
 We would like to extend our gratitude, and provide reference to, the Returns Logs Events And Properties Parser (RLEAPP) for inspiration to this project! Further thanks to Alexis Brignoni (@abrignoni) the creator of RLEAPP and all the LEAPP projects! RLEAPP supports Google Location History (Timeline) data and is a great resource for verifying results. Available here: https://github.com/abrignoni/rleapp
+
+Special thanks to @stark4n6 for troubleshooting and assisting in the process, we have a great DFIR Community!
 
 This application was created by James R. McGee, Digital Forensic Examiner, for use by the Digital Forensic Incident Response Community. James and Metadata Forensics, LLC, are proud to give back to our great Community.
