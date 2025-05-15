@@ -1,19 +1,27 @@
 # Google Location History Takeout Parser
 
-Announcing Version 1.3.0.1, with improved KML output functionality and support!
+Announcing Version 1.4, with streamlined performance and broader file support!
 
-![1 3 0 1](https://github.com/user-attachments/assets/520ad921-01a8-4afd-bc73-b291c9e34ad3)
+![ProcessingComplete](https://github.com/user-attachments/assets/070d6341-8303-435a-9b91-229b4aeabe99)
 
 Parsing Google Takeout Location History Timeline Exports or Google Semantic Location History Warrant Return Data in a forensic manner.
 
-More details within our blog post, available at https://metadataperspective.com/2024/02/17/google-location-history-data-parser/
-
 ## What's New
 
-TimeSpans and description have been added for location data with duration values, starting and ending timestamps.
+ • Multithread performance for faster background processing.
+
+ • Time elapsed tracking for greater visibility into processing stages.
+
+ • Input file / folder size calculation.
+
+ • Expanded support for location data related files, including HTML, CSV, and TXT.
+
+## Recent Prior Additions
+
+ • TimeSpans and description have been added for location data with duration values, starting and ending timestamps.
 ![PlaceVisit](https://github.com/user-attachments/assets/cd45b0e9-0f78-42df-9b59-84e08da44152)
 
-LineString additions have been added alongside our prior KML support. Location data possessing multiple points for one object can be viewed by point or LineString, such as Activity Segments, Waypoints, and Simplified Raw Paths.
+ • LineString additions have been added alongside our prior KML support. Location data possessing multiple points for one object can be viewed by point or LineString, such as Activity Segments, Waypoints, and Simplified Raw Paths.
 ![ActivitySegmentLineString](https://github.com/user-attachments/assets/c0ce4f09-485a-40f6-85d8-5d013b80932c)
 
 ## Downloading
