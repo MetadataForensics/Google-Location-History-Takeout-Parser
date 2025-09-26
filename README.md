@@ -34,7 +34,7 @@ Here, depicted through overlapping KML files opened using Google Earth, is one e
 
 ## Downloading
 
-Navigate to the Google Location History Data Parser Setup.exe above. Select "More file actions" on the right, shown by an "..." icon, and choose "Download".
+Newest version is available in Releases.
 
 When downloading, you may be met with a download issue requiring you to trust the application to open it. This is because the application is new and not commonly downloaded. Selecting "More actions" will allow you to "Keep" the file and complete the download. 
 
